@@ -7,7 +7,7 @@ namespace crypto {
     /**
      * Calculate a SHA256 checksum
      */
-    //% blockId=tropic_pick block="pick a %fruit"
+    //% blockId=crypto_sha256
     export function sha256(str: string): string {
         return "";
     }
