@@ -1,6 +1,7 @@
 {
     "name": "crypto",
     "description": "A library for cryptography related functions.",
+    "version": "0.0.1",
     "files": [
         "src/crypto.ts"
     ],
