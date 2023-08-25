@@ -1,13 +1,12 @@
 {
     "name": "crypto",
     "description": "A library for cryptography related functions.",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "files": [
         "src/crypto.ts"
     ],
     "dependencies": {
-        "core": "*",
-        "builder": "*"
+        "core": "*"
     },
     "targetVersions": {
         "target": "1.6.27",
